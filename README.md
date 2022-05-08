@@ -25,26 +25,26 @@
 > - Ensuring continious delivery for varying solutions in multiple production environment.
 > - Production of technical documentations.
 
-> # Technical skills
-> ## Azure Cloud provider
+# Technical skills
+## Azure Cloud provider
 > - Cloud architecture design and thinking about performances, security and reliability.
 > - Problem solving.
-> ## Terraform
+## Terraform
 > - Script conception matching technical needs.
 > - Testing and deployment for Azure provider.
 > - Variabilisation of terraform scripts to ensure an export to Azure DevOps and deployment in multiple environments.
 > - Migration from Azure Resource Manager (ARM) to Terraform without destruction of working environments.
-> ## Continious integration and continious deployment (CI/CD)
+## Continious integration and continious deployment (CI/CD)
 > - Most used tools : Azure DevOps.
 > - Configuring deployment and variables libraries to deploy in differents scopes such as Development, Recette, 		    Qualificatif, Pre-production and production.
 > - Pipeline design to build artefacts from source code.
 > - Deployment design to create infrastructure with infrastructure as code and deploy an application on it.
-> ## Web Fullstack development
+## Web Fullstack development
 > As I did a lot of networking during the first years of studying and working, I am currently a Junior in fullstack developement but I learn fast.
 > - MongoDB, Expressjs, Reactjs, Nodejs (**MERN stack**).
 > - UI library : Antd design, bootstrap, material UI.
 > - RESTful API architecture knowledge.
-> ## Langage and tools
+## Langage and tools
 > - **Programming :** C/C++, Python.
 > - **Scripting :** Terraform (HCL), Python, Bash, Powershell.
 > - **Web develoment :** HTML5/CSS3/SCSS, Javascript, NoSQL, Json, Yaml.

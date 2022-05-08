@@ -24,6 +24,7 @@
 > - Infrastructure as code and security scanning tools.
 > - Ensuring continious delivery for varying solutions in multiple production environment.
 > - Production of technical documentations.
+> - Rubber duck debugging.
 
 # Technical skills
 ## Azure Cloud provider

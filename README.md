@@ -58,4 +58,4 @@
 > - **OS :** Both Linux and Windows.
 > - **Versionning :** Git (gitflow workflow).
 > - **Methodology :** Well understanding of Agile and traditionnal waterfall method.
-> - **Notions :** Markdown, Rust, PHP, Symfony, Kotlin, ELK stack.
+> - **Notions :** Markdown, Rust, PHP, Symfony, Kotlin, ELK stack, IPoAC internet protocol.

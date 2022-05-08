@@ -5,7 +5,7 @@
 
 - I'm 21 years old and i'm a French student fluent with english.
 - I am currently working as a **DevOps SRE Engineer** in apprenticeship.
-- I currently hold a 3rd year university degree in computer science and i'm going for a 5rd year degree to get a computer engineering degree.
+- I currently hold a 3rd year university degree in computer science and i'm going for a 5th year degree to get a computer engineering degree.
 - **Capture the flag newbie, but I love it a lot. 😄**
 
 # My skills

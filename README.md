@@ -41,7 +41,7 @@
 > - Pipeline design to build artefacts from source code.
 > - Deployment design to create infrastructure with infrastructure as code and deploy an application on it.
 ## Web Fullstack development
-> As I did a lot of networking during the first years of studying and working, I am currently a Junior in fullstack developement but I learn fast.
+> As I did a lot of networking during my first years of studying and working, I am currently a Junior in fullstack developement but I learn fast.
 > - MongoDB, Expressjs, Reactjs, Nodejs (**MERN stack**).
 > - UI library : Antd design, bootstrap, material UI.
 > - RESTful API architecture knowledge.

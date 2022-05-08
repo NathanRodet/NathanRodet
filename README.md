@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there ! Welcome to my profile, my name is Rodet Nathan 👋
 
 <!--
 **NathanRodet/NathanRodet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

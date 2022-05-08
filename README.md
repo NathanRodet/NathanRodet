@@ -53,5 +53,7 @@
 > - **Cloud provider :** Azure Cloud Provider.
 > - **Infrastructure as Code :** Terraform, Ansible.
 > - **CI/CD Tools :** Azure DevOps, Github Action.
+> - **OS :** Both Linux and Windows.
+> - **Versionning :** Git (gitflow workflow).
 > - **Methodology :** Well understanding of Agile and traditionnal waterfall method.
 > - **Notions :** Markdown, Rust, PHP, Symfony, Kotlin, ELK stack.

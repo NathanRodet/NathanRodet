@@ -48,15 +48,16 @@
 > - Web documentation : Swagger.
 > - HTCPCP/1.0 protocol implementation.
 ## Langage and tools
-> - **Programming :** C/C++, Python.
+> - **Programming :** Python, C/C++.
 > - **Scripting :** Terraform (HCL), Python, Bash, Powershell.
-> - **Web develoment :** HTML5/CSS3/SCSS, Javascript, NoSQL, Json, Yaml.
+> - **Web develoment :** HTML5/CSS3/SCSS, Javascript, NoSQL.
 > - **Framework :** Reactjs, Expressjs.
 > - **UI library :** Antd, Material design, bootstrap, material UI.
 > - **Cloud provider :** Azure Cloud Provider.
 > - **Infrastructure as Code :** Terraform, Ansible.
 > - **CI/CD Tools :** Azure DevOps, Github Action.
+> - **Configuration/Documentation :** Markdown, Yaml, Json
 > - **OS :** Both Linux and Windows.
 > - **Versionning :** Git (gitflow workflow).
 > - **Methodology :** Well understanding of Agile and traditionnal waterfall method.
-> - **Notions :** Markdown, Rust, PHP, XML,  Symfony, Kotlin, ELK stack, IPoAC internet protocol.
+> - **Notions :**  Rust, PHP, XML,  Symfony, Kotlin, ELK stack, IPoAC internet protocol.

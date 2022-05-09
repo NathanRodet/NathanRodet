@@ -45,7 +45,7 @@
 > - MongoDB, Expressjs, Reactjs, Nodejs (**MERN stack**).
 > - UI library : Antd design, bootstrap, material UI.
 > - RESTful API architecture knowledge.
-> - Web documentation : Swagger
+> - Web documentation : Swagger.
 > - HTCPCP/1.0 protocol implementation.
 ## Langage and tools
 > - **Programming :** C/C++, Python.
@@ -59,4 +59,4 @@
 > - **OS :** Both Linux and Windows.
 > - **Versionning :** Git (gitflow workflow).
 > - **Methodology :** Well understanding of Agile and traditionnal waterfall method.
-> - **Notions :** Markdown, Rust, PHP, Symfony, Kotlin, ELK stack, IPoAC internet protocol.
+> - **Notions :** Markdown, Rust, PHP, XML,  Symfony, Kotlin, ELK stack, IPoAC internet protocol.

@@ -1,6 +1,11 @@
 
 # Hello there ! Welcome to my profile, my name is Rodet Nathan 👋
 
+## To do/learn in the few months :
+ 
+ - Learn microservices architecture
+ - Create ticketing solution based on microservices architecture and go.
+
 ## About me
 
 - I'm 21 years old and i'm a French student fluent with english.

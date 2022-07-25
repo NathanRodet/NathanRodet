@@ -23,7 +23,7 @@
 >  - **Fail hard, try harder** mentality.
 
 > ## General skills
-> - Full-stack development a.
+> - Full-stack development.
 > - Cloud Architecture design and thinking.
 > - Infrastructure as code and security scanning tools.
 > - Ensuring continious delivery for varying solutions in multiple production environment.

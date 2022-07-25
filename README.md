@@ -57,7 +57,7 @@
 > - **Web :** HTML5/CSS3/SCSS, Javascript, NoSQL.
 > - **Framework :** Reactjs, Expressjs.
 > - **UI library :** Material design, Antd, bootstrap, material UI.
-> - **Mobile :** Flutter.
+> - **Mobile :** Web PWA, Flutter.
 > - **Scripting :** HCL, Python, Bash, Powershell, ARM.
 > - **Configuration/Documentation :** Markdown, Yaml, Json
 > - **OS :** Both Linux and Windows.

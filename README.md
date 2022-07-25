@@ -4,7 +4,7 @@
 ## To do/learn in the few months :
  
  - Invest time in software development on JS/Rust backend;
- - Create ticketing solution for school tutoring based on microservices architecture and maybe kube/docker.
+ - Create ticketing solution for school tutoring based on microservice architecture and maybe kube/docker.
 
 ## About me
 

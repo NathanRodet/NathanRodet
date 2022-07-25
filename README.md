@@ -15,14 +15,14 @@
 
 # My skills
 
-> ### Soft skills
+## Soft skills
 >  - Team working. 👯
 >  - Knowledge sharing
 >  - Problem-solving.
 >  - Critical thinking.
 >  - **Fail hard, try harder** mentality.
 
-> ### General skills
+## General skills
 > - Full-stack development.
 > - Cloud Architecture.
 > - Infrastructure as code and security scanning tools.

@@ -24,7 +24,7 @@
 
 > ## General skills
 > - Full-stack development.
-> - Cloud Architecture design and thinking.
+> - Cloud Architecture.
 > - Infrastructure as code and security scanning tools.
 > - Ensuring continious delivery for varying solutions in multiple production environment.
 > - Production of technical documentations.

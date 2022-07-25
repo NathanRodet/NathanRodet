@@ -32,19 +32,21 @@
 > - Rubber duck debugging.
 
 # Technical skills
-## Azure Cloud provider
+
+# Cloud
+### Azure Cloud provider
 > - Cloud architecture design, security and reliability.
 > - Problem solving.
-## Terraform
+### Terraform
 > - Script conception matching technical needs.
 > - Testing and deployment for Azure provider.
 > - Variabilisation of terraform scripts to ensure an export to Azure DevOps and deployment in multiple environments.
 > - Migration from Azure Resource Manager (ARM) to Terraform deployment without destruction of working environments.
-## Continious delivery (CI/CD)
+### Continious delivery (CI/CD)
 > - Most used tools for pipelines: Azure DevOps.
 > - Configuring deployment and variable libraries to deploy in differents scopes such as dev, rec, qual, preprod and prod.
 > - Pipeline design to build ready to deploy artefacts for both infrastructures and applications.
-## Fullstack development
+### Fullstack development
 > - MERN Stack : MongoDB, Expressjs, Reactjs, Nodejs (**MERN stack**).
 > - Mobile : Progressive Web App (PWA), Flutter
 > - UI library : Antd Design, Bootstrap, Material UI.
